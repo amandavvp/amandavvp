@@ -28,7 +28,7 @@
 
 
 ## 📫 Contato
-📫 "Estou sempre disponível para uma boa conversa ou para trocar ideias. Se tiver alguma dúvida ou apenas quiser mandar um oiê, ficarei feliz em falar com você! Além disso, estou atualmente em busca de oportunidades profissionais. Se souber de alguma vaga ou tiver sugestões, ficarei grato por qualquer ajuda! Entre em contato pelo e-mail amandavvporto@gmail.com. Vamos bater um papo?"
+📫 Estou sempre disponível para uma boa conversa ou para trocar ideias. Se tiver alguma dúvida ou apenas quiser mandar um oiê, ficarei feliz em falar com você! Além disso, estou atualmente em busca de oportunidades profissionais. Se souber de alguma vaga ou tiver sugestões, ficarei grata por qualquer ajuda! Entre em contato pelo e-mail amandavvporto@gmail.com. Vamos bater um papo?
 
 📄 E pode encontrar meu curriculo no https://amandavvp.github.io/about-me/
 
