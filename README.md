@@ -1,6 +1,8 @@
 <h1 align="center"> Oii! Eu sou Amanda Porto 👋🏻 </h1> 
 
-<h3 align="center">Sou uma desenvolvedora apaixonada e estudante de sistemas de informação. Tenho uma grande vontade de aprender constantemente e fascinada pela programação. Explorar novas áreas de conhecimento me motiva, e a codar é o que me realiza! Adoro desafios e estou sempre em busca de oportunidades para expandir meu repertório e aprimorar minhas habilidades técnicas. Estou estudando desenvolvimento Full Stack e ansiosa para aprender mais sobre React, JQuery, Bootstrap, Firebase, Node.js, MongoDB e Electron.</h3>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+<h3 align="left">Sou uma desenvolvedora apaixonada e estudante de sistemas de informação. Tenho uma grande vontade de aprender constantemente e fascinada pela programação. Explorar novas áreas de conhecimento me motiva, e a codar é o que me realiza! Adoro desafios e estou sempre em busca de oportunidades para expandir meu repertório e aprimorar minhas habilidades técnicas. Estou estudando desenvolvimento Full Stack e ansiosa para aprender mais sobre React, JQuery, Bootstrap, Firebase, Node.js, MongoDB e Electron.</h3>
 <br/><br/>
 
 ![Amanda GitHub stats](https://github-readme-stats.vercel.app/api?username=amandavvp&show_icons=true&theme=buefy) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandavvp&layout=compact)
@@ -39,3 +41,13 @@
 
 
 
+<div align="center">
+  <h3><b>Profile Visitor Count</b></h3>
+</div>
+
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/amandavvp/count.svg"
+    alt="Ilustração do número de visitantes no perfil"
+  />
+</p>
