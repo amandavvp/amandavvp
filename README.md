@@ -39,14 +39,3 @@
 [![Github](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amandavvp/)
 
 
-
-<div align="center">
-  <h3><b>Profile Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/amandavvp/count.svg"
-    alt="Ilustração do número de visitantes no perfil"
-  />
-</p>
